@@ -1,0 +1,13 @@
+C:\Users\Fátima Aikawa\Documents\Curso C# Danilo Aparecido\02 - TIPOS DE VARIÁVEIS E CONVERSÕES - C# - TORNE-SE UM PROGRAMADOR\Tipos_de_Variaveis\obj\Debug\netcoreapp3.1\Tipos_de_Variaveis.csproj.AssemblyReference.cache
+C:\Users\Fátima Aikawa\Documents\Curso C# Danilo Aparecido\02 - TIPOS DE VARIÁVEIS E CONVERSÕES - C# - TORNE-SE UM PROGRAMADOR\Tipos_de_Variaveis\obj\Debug\netcoreapp3.1\Tipos_de_Variaveis.AssemblyInfoInputs.cache
+C:\Users\Fátima Aikawa\Documents\Curso C# Danilo Aparecido\02 - TIPOS DE VARIÁVEIS E CONVERSÕES - C# - TORNE-SE UM PROGRAMADOR\Tipos_de_Variaveis\obj\Debug\netcoreapp3.1\Tipos_de_Variaveis.AssemblyInfo.cs
+C:\Users\Fátima Aikawa\Documents\Curso C# Danilo Aparecido\02 - TIPOS DE VARIÁVEIS E CONVERSÕES - C# - TORNE-SE UM PROGRAMADOR\Tipos_de_Variaveis\obj\Debug\netcoreapp3.1\Tipos_de_Variaveis.csproj.CoreCompileInputs.cache
+C:\Users\Fátima Aikawa\Documents\Curso C# Danilo Aparecido\02 - TIPOS DE VARIÁVEIS E CONVERSÕES - C# - TORNE-SE UM PROGRAMADOR\Tipos_de_Variaveis\bin\Debug\netcoreapp3.1\Tipos_de_Variaveis.exe
+C:\Users\Fátima Aikawa\Documents\Curso C# Danilo Aparecido\02 - TIPOS DE VARIÁVEIS E CONVERSÕES - C# - TORNE-SE UM PROGRAMADOR\Tipos_de_Variaveis\bin\Debug\netcoreapp3.1\Tipos_de_Variaveis.deps.json
+C:\Users\Fátima Aikawa\Documents\Curso C# Danilo Aparecido\02 - TIPOS DE VARIÁVEIS E CONVERSÕES - C# - TORNE-SE UM PROGRAMADOR\Tipos_de_Variaveis\bin\Debug\netcoreapp3.1\Tipos_de_Variaveis.runtimeconfig.json
+C:\Users\Fátima Aikawa\Documents\Curso C# Danilo Aparecido\02 - TIPOS DE VARIÁVEIS E CONVERSÕES - C# - TORNE-SE UM PROGRAMADOR\Tipos_de_Variaveis\bin\Debug\netcoreapp3.1\Tipos_de_Variaveis.runtimeconfig.dev.json
+C:\Users\Fátima Aikawa\Documents\Curso C# Danilo Aparecido\02 - TIPOS DE VARIÁVEIS E CONVERSÕES - C# - TORNE-SE UM PROGRAMADOR\Tipos_de_Variaveis\bin\Debug\netcoreapp3.1\Tipos_de_Variaveis.dll
+C:\Users\Fátima Aikawa\Documents\Curso C# Danilo Aparecido\02 - TIPOS DE VARIÁVEIS E CONVERSÕES - C# - TORNE-SE UM PROGRAMADOR\Tipos_de_Variaveis\bin\Debug\netcoreapp3.1\Tipos_de_Variaveis.pdb
+C:\Users\Fátima Aikawa\Documents\Curso C# Danilo Aparecido\02 - TIPOS DE VARIÁVEIS E CONVERSÕES - C# - TORNE-SE UM PROGRAMADOR\Tipos_de_Variaveis\obj\Debug\netcoreapp3.1\Tipos_de_Variaveis.dll
+C:\Users\Fátima Aikawa\Documents\Curso C# Danilo Aparecido\02 - TIPOS DE VARIÁVEIS E CONVERSÕES - C# - TORNE-SE UM PROGRAMADOR\Tipos_de_Variaveis\obj\Debug\netcoreapp3.1\Tipos_de_Variaveis.pdb
+C:\Users\Fátima Aikawa\Documents\Curso C# Danilo Aparecido\02 - TIPOS DE VARIÁVEIS E CONVERSÕES - C# - TORNE-SE UM PROGRAMADOR\Tipos_de_Variaveis\obj\Debug\netcoreapp3.1\Tipos_de_Variaveis.genruntimeconfig.cache
